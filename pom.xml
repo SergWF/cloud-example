@@ -18,8 +18,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<modules>
-		<module>api-author</module>
-		<module>sso</module>
+        <module>api-author</module>
+        <module>service-config</module>
+        <module>sso</module>
 	</modules>
 
 	<properties>
