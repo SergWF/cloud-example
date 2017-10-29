@@ -1,4 +1,10 @@
-spring.application.name: api-author
-# N.B. this is the default:
-spring.cloud.config.uri: http://localhost:8888
+spring:
+  application:
+    name: api-author
+  cloud:
+    config:
+      uri: http://localhost:8888
+      fail-fast: true
+
 management.security.enabled: false
+
