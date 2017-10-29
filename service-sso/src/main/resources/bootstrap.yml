@@ -1,10 +1,9 @@
 spring:
   application:
-    name: sso
+    name: service-sso
   cloud:
     config:
       uri: http://localhost:9001
       fail-fast: true
 
 management.security.enabled: false
-
