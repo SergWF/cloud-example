@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Data
 @Component
 @RefreshScope
-@ConfigurationProperties
-public class ApiAuthorProperties {
+@ConfigurationProperties(prefix = "check")
+public class CheckProperties {
     private String message;
 }

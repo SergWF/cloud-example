@@ -5,9 +5,7 @@ spring:
     config:
       uri: http://localhost:9001
       fail-fast: true
-      discovery:
-        service-id: service-config
-        enabled: true
+
 
 management.security.enabled: false
 
