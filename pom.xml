@@ -20,7 +20,8 @@
 	<modules>
         <module>api-author</module>
         <module>service-config</module>
-        <module>sso</module>
+        <module>service-registry</module>
+        <module>service-sso</module>
 	</modules>
 
 	<properties>

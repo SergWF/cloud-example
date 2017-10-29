@@ -1,4 +1,4 @@
-package my.wf.demo.cloud.serviceconfig;
+package my.wf.demo.cloud.service.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

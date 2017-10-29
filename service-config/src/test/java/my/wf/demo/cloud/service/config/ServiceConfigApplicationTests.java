@@ -1,4 +1,4 @@
-package my.wf.demo.cloud.serviceconfig;
+package my.wf.demo.cloud.service.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
