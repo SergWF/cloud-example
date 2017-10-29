@@ -3,3 +3,8 @@ server.port: 9003
 spring:
   application:
     name: service-sso
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9002/eureka/
