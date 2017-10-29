@@ -21,6 +21,7 @@
         <module>api-author</module>
         <module>service-config</module>
         <module>service-registry</module>
+        <module>service-gateway</module>
         <module>service-sso</module>
 	</modules>
 
