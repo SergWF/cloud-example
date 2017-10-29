@@ -12,4 +12,4 @@ eureka:
 zuul:
   routes:
     api-author:
-      path: /api/v1/authors/**
+      path: /api-authors/**
