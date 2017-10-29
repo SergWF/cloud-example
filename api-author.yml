@@ -4,6 +4,8 @@ spring:
   application:
     name: api-author
 
+check.message: check status OK
+
 eureka:
   client:
     serviceUrl:
