@@ -4,5 +4,6 @@ spring:
     config:
       server:
         git:
-          uri: ${HOME}/work/cloud-example
+          #uri: ${HOME}/work/cloud-example
+          uri: https://github.com/SergWF/cloud-example.git
 #eureka.client.serviceUrl.defaultZone: http://localhost:9002/eureka/
